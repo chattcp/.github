@@ -1,5 +1,5 @@
-# ChatTCP: Simplifying Your TCP Analysis
+# ChatTCP: PCAP Viewer & Analyzer
 
-ChatTCP is an TCP analysis application dedicated to simplifying the analysis of TCP, making it as easy as reading chat logs!
+An intuitive and easy-to-use PCAP viewer and analyzer dedicated to breaking the 'cognitive load'. Make viewing network packets as easy as reading chat records. 
 
 Official website：[ChatTCP](https://chattcp.com)
